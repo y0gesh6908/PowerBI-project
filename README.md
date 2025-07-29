@@ -81,7 +81,7 @@ This project presents an interactive **Power BI dashboard** built using insights
 
 ### 📷 Sample Preview
 
-`[Dashboard_Screenshot.png]`](https://github.com/y0gesh6908/PowerBI-project/blob/main/Screenshot%202025-07-29%20225100.png)
+(https://github.com/y0gesh6908/PowerBI-project/blob/main/Screenshot%202025-07-29%20225100.png)
 
 ---
 
